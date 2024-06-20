@@ -1,0 +1,1788 @@
+/Users/joesouber/opt/anaconda3/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+Running
+Running
+CREATING COMPS
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  core
+Write to File Name  core
+{0: 0.0, 1: 1.0, 2: 2.0, 3: 3.0, 4: 4.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 1.0, 2: 2.0, 3: 3.0, 4: 4.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 1.0, 2: 2.0, 3: 3.0, 4: 4.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 1.0, 2: 2.0, 3: 3.0, 4: 4.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 1.0, 2: 2.0, 3: 3.0, 4: 4.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 0.0, 2: 0.0, 3: 0.0, 4: 0.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 0.0, 2: 0.0, 3: 0.0, 4: 0.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 0.0, 2: 0.0, 3: 0.0, 4: 0.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 0.0, 2: 0.0, 3: 0.0, 4: 0.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 0.0, 1: 0.0, 2: 0.0, 3: 0.0, 4: 0.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 6.921890698178161, 1: 6.921890698178161, 2: 6.921890698178161, 3: 6.921890698178161, 4: 12.002136246411865}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 6.921890698178161, 1: 6.921890698178161, 2: 6.921890698178161, 3: 6.921890698178161, 4: 12.002136246411865}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 6.921890698178161, 1: 6.921890698178161, 2: 6.921890698178161, 3: 6.921890698178161, 4: 12.002136246411865}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 6.921890698178161, 1: 6.921890698178161, 2: 6.921890698178161, 3: 6.921890698178161, 4: 12.002136246411865}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 6.921890698178161, 1: 6.921890698178161, 2: 6.921890698178161, 3: 6.921890698178161, 4: 12.002136246411865}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 13.896424354193007, 1: 13.896424354193007, 2: 13.896424354193007, 3: 13.896424354193007, 4: 20.870958010207854}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 13.896424354193007, 1: 13.896424354193007, 2: 13.896424354193007, 3: 13.896424354193007, 4: 20.870958010207854}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 13.896424354193007, 1: 13.896424354193007, 2: 13.896424354193007, 3: 13.896424354193007, 4: 20.870958010207854}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 13.896424354193007, 1: 13.896424354193007, 2: 13.896424354193007, 3: 13.896424354193007, 4: 20.870958010207854}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 13.896424354193007, 1: 13.896424354193007, 2: 13.896424354193007, 3: 13.896424354193007, 4: 20.870958010207854}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 20.92360096804454, 1: 21.838365161835036, 2: 20.92360096804454, 3: 20.92360096804454, 4: 27.95077758189607}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 20.92360096804454, 1: 21.838365161835036, 2: 20.92360096804454, 3: 20.92360096804454, 4: 27.95077758189607}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 20.92360096804454, 1: 21.838365161835036, 2: 20.92360096804454, 3: 20.92360096804454, 4: 27.95077758189607}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 20.92360096804454, 1: 21.838365161835036, 2: 20.92360096804454, 3: 20.92360096804454, 4: 27.95077758189607}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 20.92360096804454, 1: 21.838365161835036, 2: 20.92360096804454, 3: 20.92360096804454, 4: 27.95077758189607}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 29.261808536821796, 1: 35.010971922814136, 2: 30.12736641123922, 3: 30.12736641123922, 4: 37.60001610559905}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 29.261808536821796, 1: 35.010971922814136, 2: 30.12736641123922, 3: 30.12736641123922, 4: 37.60001610559905}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 29.261808536821796, 1: 35.010971922814136, 2: 30.12736641123922, 3: 30.12736641123922, 4: 37.60001610559905}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 29.261808536821796, 1: 35.010971922814136, 2: 30.12736641123922, 3: 30.12736641123922, 4: 37.60001610559905}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 29.261808536821796, 1: 35.010971922814136, 2: 30.12736641123922, 3: 30.12736641123922, 4: 37.60001610559905}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 38.6863214466691, 1: 48.2609231795229, 2: 38.6863214466691, 3: 38.6863214466691, 4: 47.24527648209897}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 38.6863214466691, 1: 48.2609231795229, 2: 38.6863214466691, 3: 38.6863214466691, 4: 47.24527648209897}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 38.6863214466691, 1: 48.2609231795229, 2: 38.6863214466691, 3: 38.6863214466691, 4: 47.24527648209897}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 38.6863214466691, 1: 48.2609231795229, 2: 38.6863214466691, 3: 38.6863214466691, 4: 47.24527648209897}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 38.6863214466691, 1: 48.2609231795229, 2: 38.6863214466691, 3: 38.6863214466691, 4: 47.24527648209897}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 47.14852876008165, 1: 61.588218931961315, 2: 46.58993748276684, 3: 46.58993748276684, 4: 59.70856240012878}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 47.14852876008165, 1: 61.588218931961315, 2: 46.58993748276684, 3: 46.58993748276684, 4: 59.70856240012878}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 47.14852876008165, 1: 61.588218931961315, 2: 46.58993748276684, 3: 46.58993748276684, 4: 59.70856240012878}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 47.14852876008165, 1: 61.588218931961315, 2: 46.58993748276684, 3: 46.58993748276684, 4: 59.70856240012878}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 47.14852876008165, 1: 61.588218931961315, 2: 46.58993748276684, 3: 46.58993748276684, 4: 59.70856240012878}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 57.99751972373828, 1: 72.93060683425738, 2: 54.55146077248494, 3: 54.55146077248494, 4: 71.29826934076267}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 57.99751972373828, 1: 72.93060683425738, 2: 54.55146077248494, 3: 54.55146077248494, 4: 71.29826934076267}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 57.99751972373828, 1: 72.93060683425738, 2: 54.55146077248494, 3: 54.55146077248494, 4: 71.29826934076267}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 57.99751972373828, 1: 72.93060683425738, 2: 54.55146077248494, 3: 54.55146077248494, 4: 71.29826934076267}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 57.99751972373828, 1: 72.93060683425738, 2: 54.55146077248494, 3: 54.55146077248494, 4: 71.29826934076267}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 69.70598389380353, 1: 86.4125915781551, 2: 62.57089131582339, 3: 62.57089131582339, 4: 82.97311160538757}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 69.70598389380353, 1: 86.4125915781551, 2: 62.57089131582339, 3: 62.57089131582339, 4: 82.97311160538757}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 69.70598389380353, 1: 86.4125915781551, 2: 62.57089131582339, 3: 62.57089131582339, 4: 82.97311160538757}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 69.70598389380353, 1: 86.4125915781551, 2: 62.57089131582339, 3: 62.57089131582339, 4: 82.97311160538757}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 69.70598389380353, 1: 86.4125915781551, 2: 62.57089131582339, 3: 62.57089131582339, 4: 82.97311160538757}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 78.35419082416904, 1: 96.84284483940694, 2: 72.11683598495652, 3: 72.11683598495652, 4: 94.73308919400348}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 78.35419082416904, 1: 96.84284483940694, 2: 72.11683598495652, 3: 72.11683598495652, 4: 94.73308919400348}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 78.35419082416904, 1: 96.84284483940694, 2: 72.11683598495652, 3: 72.11683598495652, 4: 94.73308919400348}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 78.35419082416904, 1: 96.84284483940694, 2: 72.11683598495652, 3: 72.11683598495652, 4: 94.73308919400348}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 78.35419082416904, 1: 96.84284483940694, 2: 72.11683598495652, 3: 72.11683598495652, 4: 94.73308919400348}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 88.6480715909764, 1: 109.43054367204421, 2: 80.25208103553568, 3: 80.25208103553568, 4: 106.57820210661039}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 88.6480715909764, 1: 109.43054367204421, 2: 80.25208103553568, 3: 80.25208103553568, 4: 106.57820210661039}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 88.6480715909764, 1: 109.43054367204421, 2: 80.25208103553568, 3: 80.25208103553568, 4: 106.57820210661039}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 88.6480715909764, 1: 109.43054367204421, 2: 80.25208103553568, 3: 80.25208103553568, 4: 106.57820210661039}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 88.6480715909764, 1: 109.43054367204421, 2: 80.25208103553568, 3: 80.25208103553568, 4: 106.57820210661039}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 97.4202782659772, 1: 121.03471294450219, 2: 89.93489739504419, 3: 89.93489739504419, 4: 118.50845034320831}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 97.4202782659772, 1: 121.03471294450219, 2: 89.93489739504419, 3: 89.93489739504419, 4: 118.50845034320831}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 97.4202782659772, 1: 121.03471294450219, 2: 89.93489739504419, 3: 89.93489739504419, 4: 118.50845034320831}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 97.4202782659772, 1: 121.03471294450219, 2: 89.93489739504419, 3: 89.93489739504419, 4: 118.50845034320831}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 97.4202782659772, 1: 121.03471294450219, 2: 89.93489739504419, 3: 89.93489739504419, 4: 118.50845034320831}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 108.66381387165524, 1: 131.6434535035917, 2: 99.68614959974039, 3: 99.68614959974039, 4: 131.52511586717964}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 108.66381387165524, 1: 131.6434535035917, 2: 99.68614959974039, 3: 99.68614959974039, 4: 131.52511586717964}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 108.66381387165524, 1: 131.6434535035917, 2: 99.68614959974039, 3: 99.68614959974039, 4: 131.52511586717964}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 108.66381387165524, 1: 131.6434535035917, 2: 99.68614959974039, 3: 99.68614959974039, 4: 131.52511586717964}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 108.66381387165524, 1: 131.6434535035917, 2: 99.68614959974039, 3: 99.68614959974039, 4: 131.52511586717964}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 116.75127425314261, 1: 145.51216072613772, 2: 109.50583764962428, 3: 109.50583764962428, 4: 143.62563475175958}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 116.75127425314261, 1: 145.51216072613772, 2: 109.50583764962428, 3: 109.50583764962428, 4: 143.62563475175958}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 116.75127425314261, 1: 145.51216072613772, 2: 109.50583764962428, 3: 109.50583764962428, 4: 143.62563475175958}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 116.75127425314261, 1: 145.51216072613772, 2: 109.50583764962428, 3: 109.50583764962428, 4: 143.62563475175958}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 116.75127425314261, 1: 145.51216072613772, 2: 109.50583764962428, 3: 109.50583764962428, 4: 143.62563475175958}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 124.89509815491876, 1: 157.31266602621713, 2: 117.11208679967935, 3: 117.11208679967935, 4: 156.82676014437808}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 124.89509815491876, 1: 157.31266602621713, 2: 117.11208679967935, 3: 117.11208679967935, 4: 156.82676014437808}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 124.89509815491876, 1: 157.31266602621713, 2: 117.11208679967935, 3: 117.11208679967935, 4: 156.82676014437808}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 124.89509815491876, 1: 157.31266602621713, 2: 117.11208679967935, 3: 117.11208679967935, 4: 156.82676014437808}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 124.89509815491876, 1: 157.31266602621713, 2: 117.11208679967935, 3: 117.11208679967935, 4: 156.82676014437808}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 134.73532306139666, 1: 167.0211710974516, 2: 124.77097890757109, 3: 124.77097890757109, 4: 170.1201154713202}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 134.73532306139666, 1: 167.0211710974516, 2: 124.77097890757109, 3: 124.77097890757109, 4: 170.1201154713202}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 134.73532306139666, 1: 167.0211710974516, 2: 124.77097890757109, 3: 124.77097890757109, 4: 170.1201154713202}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 134.73532306139666, 1: 167.0211710974516, 2: 124.77097890757109, 3: 124.77097890757109, 4: 170.1201154713202}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 134.73532306139666, 1: 167.0211710974516, 2: 124.77097890757109, 3: 124.77097890757109, 4: 170.1201154713202}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 142.99187400375035, 1: 175.65735643897852, 2: 133.61213382632704, 3: 134.0248209864452, 4: 183.50570073258586}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 142.99187400375035, 1: 175.65735643897852, 2: 133.61213382632704, 3: 134.0248209864452, 4: 183.50570073258586}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 142.99187400375035, 1: 175.65735643897852, 2: 133.61213382632704, 3: 134.0248209864452, 4: 183.50570073258586}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 142.99187400375035, 1: 175.65735643897852, 2: 133.61213382632704, 3: 134.0248209864452, 4: 183.50570073258586}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 142.99187400375035, 1: 175.65735643897852, 2: 133.61213382632704, 3: 134.0248209864452, 4: 183.50570073258586}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 151.3047884663928, 1: 186.9617418786932, 2: 142.5136430768274, 3: 144.11825241707984, 4: 196.98351592817514}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 151.3047884663928, 1: 186.9617418786932, 2: 142.5136430768274, 3: 144.11825241707984, 4: 196.98351592817514}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 151.3047884663928, 1: 186.9617418786932, 2: 142.5136430768274, 3: 144.11825241707984, 4: 196.98351592817514}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 151.3047884663928, 1: 186.9617418786932, 2: 142.5136430768274, 3: 144.11825241707984, 4: 196.98351592817514}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 151.3047884663928, 1: 186.9617418786932, 2: 142.5136430768274, 3: 144.11825241707984, 4: 196.98351592817514}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 163.02177764249652, 1: 198.34347181413753, 2: 156.4543197603193, 3: 152.71675549662183, 4: 209.72520174958186}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 163.02177764249652, 1: 198.34347181413753, 2: 156.4543197603193, 3: 152.71675549662183, 4: 209.72520174958186}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 163.02177764249652, 1: 198.34347181413753, 2: 156.4543197603193, 3: 152.71675549662183, 4: 209.72520174958186}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 163.02177764249652, 1: 198.34347181413753, 2: 156.4543197603193, 3: 152.71675549662183, 4: 209.72520174958186}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 163.02177764249652, 1: 198.34347181413753, 2: 156.4543197603193, 3: 152.71675549662183, 4: 209.72520174958186}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 173.97511159668252, 1: 208.0396117174386, 2: 169.48641230274814, 3: 162.94705861763185, 4: 223.3874768138183}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 173.97511159668252, 1: 208.0396117174386, 2: 169.48641230274814, 3: 162.94705861763185, 4: 223.3874768138183}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 173.97511159668252, 1: 208.0396117174386, 2: 169.48641230274814, 3: 162.94705861763185, 4: 223.3874768138183}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 173.97511159668252, 1: 208.0396117174386, 2: 169.48641230274814, 3: 162.94705861763185, 4: 223.3874768138183}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 173.97511159668252, 1: 208.0396117174386, 2: 169.48641230274814, 3: 162.94705861763185, 4: 223.3874768138183}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 185.8499186295948, 1: 216.02636328221803, 2: 181.59650863039295, 3: 173.24579758382959, 4: 237.14198181237833}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 185.8499186295948, 1: 216.02636328221803, 2: 181.59650863039295, 3: 173.24579758382959, 4: 237.14198181237833}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 185.8499186295948, 1: 216.02636328221803, 2: 181.59650863039295, 3: 173.24579758382959, 4: 237.14198181237833}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 185.8499186295948, 1: 216.02636328221803, 2: 181.59650863039295, 3: 173.24579758382959, 4: 237.14198181237833}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 185.8499186295948, 1: 216.02636328221803, 2: 181.59650863039295, 3: 173.24579758382959, 4: 237.14198181237833}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 198.65747144529112, 1: 224.0666610363488, 2: 191.75531593870187, 3: 182.0180224242326, 4: 250.98871674526197}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 198.65747144529112, 1: 224.0666610363488, 2: 191.75531593870187, 3: 182.0180224242326, 4: 250.98871674526197}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 198.65747144529112, 1: 224.0666610363488, 2: 191.75531593870187, 3: 182.0180224242326, 4: 250.98871674526197}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 198.65747144529112, 1: 224.0666610363488, 2: 191.75531593870187, 3: 182.0180224242326, 4: 250.98871674526197}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 198.65747144529112, 1: 224.0666610363488, 2: 191.75531593870187, 3: 182.0180224242326, 4: 250.98871674526197}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 209.83062312860335, 1: 233.05982097355107, 2: 205.04894391868984, 3: 190.848154518256, 4: 263.85545354576095}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 209.83062312860335, 1: 233.05982097355107, 2: 205.04894391868984, 3: 190.848154518256, 4: 263.85545354576095}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 209.83062312860335, 1: 233.05982097355107, 2: 205.04894391868984, 3: 190.848154518256, 4: 263.85545354576095}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 209.83062312860335, 1: 233.05982097355107, 2: 205.04894391868984, 3: 190.848154518256, 4: 263.85545354576095}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 209.83062312860335, 1: 233.05982097355107, 2: 205.04894391868984, 3: 190.848154518256, 4: 263.85545354576095}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 219.34682827141594, 1: 242.11247667669923, 2: 216.37116476876045, 3: 199.73619386589974, 4: 276.8073256702509}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 219.34682827141594, 1: 242.11247667669923, 2: 216.37116476876045, 3: 199.73619386589974, 4: 276.8073256702509}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 219.34682827141594, 1: 242.11247667669923, 2: 216.37116476876045, 3: 199.73619386589974, 4: 276.8073256702509}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 219.34682827141594, 1: 242.11247667669923, 2: 216.37116476876045, 3: 199.73619386589974, 4: 276.8073256702509}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 219.34682827141594, 1: 242.11247667669923, 2: 216.37116476876045, 3: 199.73619386589974, 4: 276.8073256702509}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 231.53727101794536, 1: 252.1358432927027, 2: 227.76715202429645, 3: 210.3086762128482, 4: 290.9307504061053}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 231.53727101794536, 1: 252.1358432927027, 2: 227.76715202429645, 3: 210.3086762128482, 4: 290.9307504061053}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 231.53727101794536, 1: 252.1358432927027, 2: 227.76715202429645, 3: 210.3086762128482, 4: 290.9307504061053}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 231.53727101794536, 1: 252.1358432927027, 2: 227.76715202429645, 3: 210.3086762128482, 4: 290.9307504061053}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 231.53727101794536, 1: 252.1358432927027, 2: 227.76715202429645, 3: 210.3086762128482, 4: 290.9307504061053}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 242.93024043038378, 1: 264.0589846982546, 2: 239.23690568529784, 3: 218.4939978991068, 4: 304.0528931785773}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 242.93024043038378, 1: 264.0589846982546, 2: 239.23690568529784, 3: 218.4939978991068, 4: 304.0528931785773}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 242.93024043038378, 1: 264.0589846982546, 2: 239.23690568529784, 3: 218.4939978991068, 4: 304.0528931785773}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 242.93024043038378, 1: 264.0589846982546, 2: 239.23690568529784, 3: 218.4939978991068, 4: 304.0528931785773}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 242.93024043038378, 1: 264.0589846982546, 2: 239.23690568529784, 3: 218.4939978991068, 4: 304.0528931785773}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 252.63244519014933, 1: 276.0594705995362, 2: 249.7310148366313, 3: 229.20335193643066, 4: 318.36077778307885}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 252.63244519014933, 1: 276.0594705995362, 2: 249.7310148366313, 3: 229.20335193643066, 4: 318.36077778307885}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 252.63244519014933, 1: 276.0594705995362, 2: 249.7310148366313, 3: 229.20335193643066, 4: 318.36077778307885}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 252.63244519014933, 1: 276.0594705995362, 2: 249.7310148366313, 3: 229.20335193643066, 4: 318.36077778307885}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 252.63244519014933, 1: 276.0594705995362, 2: 249.7310148366313, 3: 229.20335193643066, 4: 318.36077778307885}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 265.0596147218916, 1: 285.35010936646796, 2: 259.2360674045758, 3: 239.9811418189422, 4: 331.65319120353286}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 265.0596147218916, 1: 285.35010936646796, 2: 259.2360674045758, 3: 239.9811418189422, 4: 331.65319120353286}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 265.0596147218916, 1: 285.35010936646796, 2: 259.2360674045758, 3: 239.9811418189422, 4: 331.65319120353286}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 265.0596147218916, 1: 285.35010936646796, 2: 259.2360674045758, 3: 239.9811418189422, 4: 331.65319120353286}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 265.0596147218916, 1: 285.35010936646796, 2: 259.2360674045758, 3: 239.9811418189422, 4: 331.65319120353286}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 277.5656931820381, 1: 296.5702708059211, 2: 270.9271202819734, 3: 250.82736754664145, 4: 346.1455356766816}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 277.5656931820381, 1: 296.5702708059211, 2: 270.9271202819734, 3: 250.82736754664145, 4: 346.1455356766816}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 277.5656931820381, 1: 296.5702708059211, 2: 270.9271202819734, 3: 250.82736754664145, 4: 346.1455356766816}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 277.5656931820381, 1: 296.5702708059211, 2: 270.9271202819734, 3: 250.82736754664145, 4: 346.1455356766816}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 277.5656931820381, 1: 296.5702708059211, 2: 270.9271202819734, 3: 250.82736754664145, 4: 346.1455356766816}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 290.1506805705889, 1: 305.03893807486224, 2: 281.6224105391215, 3: 260.9024397677679, 4: 360.7301100841539}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 290.1506805705889, 1: 305.03893807486224, 2: 281.6224105391215, 3: 260.9024397677679, 4: 360.7301100841539}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 290.1506805705889, 1: 305.03893807486224, 2: 281.6224105391215, 3: 260.9024397677679, 4: 360.7301100841539}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 290.1506805705889, 1: 305.03893807486224, 2: 281.6224105391215, 3: 260.9024397677679, 4: 360.7301100841539}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 290.1506805705889, 1: 305.03893807486224, 2: 281.6224105391215, 3: 260.9024397677679, 4: 360.7301100841539}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 300.1008848196251, 1: 313.5611515331547, 2: 292.3847611648746, 3: 271.0406835382983, 4: 375.4069144259498}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 300.1008848196251, 1: 313.5611515331547, 2: 292.3847611648746, 3: 271.0406835382983, 4: 375.4069144259498}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 300.1008848196251, 1: 313.5611515331547, 2: 292.3847611648746, 3: 271.0406835382983, 4: 375.4069144259498}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 300.1008848196251, 1: 313.5611515331547, 2: 292.3847611648746, 3: 271.0406835382983, 4: 375.4069144259498}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 300.1008848196251, 1: 313.5611515331547, 2: 292.3847611648746, 3: 271.0406835382983, 4: 375.4069144259498}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 313.753890439653, 1: 322.13691118079845, 2: 307.5459365569758, 3: 280.3919809149049, 4: 389.0398691423678}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 313.753890439653, 1: 322.13691118079845, 2: 307.5459365569758, 3: 280.3919809149049, 4: 389.0398691423678}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 313.753890439653, 1: 322.13691118079845, 2: 307.5459365569758, 3: 280.3919809149049, 4: 389.0398691423678}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 313.753890439653, 1: 322.13691118079845, 2: 307.5459365569758, 3: 280.3919809149049, 4: 389.0398691423678}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 313.753890439653, 1: 322.13691118079845, 2: 307.5459365569758, 3: 280.3919809149049, 4: 389.0398691423678}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 327.4914413401141, 1: 331.7250287774596, 2: 322.80099646512383, 3: 290.65656778424335, 4: 403.9011333528109}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 327.4914413401141, 1: 331.7250287774596, 2: 322.80099646512383, 3: 290.65656778424335, 4: 403.9011333528109}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 327.4914413401141, 1: 331.7250287774596, 2: 322.80099646512383, 3: 290.65656778424335, 4: 403.9011333528109}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 327.4914413401141, 1: 331.7250287774596, 2: 322.80099646512383, 3: 290.65656778424335, 4: 403.9011333528109}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 327.4914413401141, 1: 331.7250287774596, 2: 322.80099646512383, 3: 290.65656778424335, 4: 403.9011333528109}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 339.47059136355574, 1: 344.2669261488488, 2: 332.66817502353484, 3: 301.84497273788105, 4: 418.8546274975776}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 339.47059136355574, 1: 344.2669261488488, 2: 332.66817502353484, 3: 301.84497273788105, 4: 418.8546274975776}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 339.47059136355574, 1: 344.2669261488488, 2: 332.66817502353484, 3: 301.84497273788105, 4: 418.8546274975776}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 339.47059136355574, 1: 344.2669261488488, 2: 332.66817502353484, 3: 301.84497273788105, 4: 418.8546274975776}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 339.47059136355574, 1: 344.2669261488488, 2: 332.66817502353484, 3: 301.84497273788105, 4: 418.8546274975776}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 349.6687951018625, 1: 354.9447461902571, 2: 347.0079447537594, 3: 310.5040810446698, 4: 433.9003515766679}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 349.6687951018625, 1: 354.9447461902571, 2: 347.0079447537594, 3: 310.5040810446698, 4: 433.9003515766679}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 349.6687951018625, 1: 354.9447461902571, 2: 347.0079447537594, 3: 310.5040810446698, 4: 433.9003515766679}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 349.6687951018625, 1: 354.9447461902571, 2: 347.0079447537594, 3: 310.5040810446698, 4: 433.9003515766679}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 349.6687951018625, 1: 354.9447461902571, 2: 347.0079447537594, 3: 310.5040810446698, 4: 433.9003515766679}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 362.727236060839, 1: 364.71135108475596, 2: 360.3251277162925, 3: 320.0870074357578, 4: 447.87384758904994}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 362.727236060839, 1: 364.71135108475596, 2: 360.3251277162925, 3: 320.0870074357578, 4: 447.87384758904994}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 362.727236060839, 1: 364.71135108475596, 2: 360.3251277162925, 3: 320.0870074357578, 4: 447.87384758904994}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 362.727236060839, 1: 364.71135108475596, 2: 360.3251277162925, 3: 320.0870074357578, 4: 447.87384758904994}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 362.727236060839, 1: 364.71135108475596, 2: 360.3251277162925, 3: 320.0870074357578, 4: 447.87384758904994}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 373.98782167859395, 1: 376.50267187728963, 2: 371.48984055367504, 3: 329.72784108046613, 4: 461.93247892542297}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 373.98782167859395, 1: 376.50267187728963, 2: 371.48984055367504, 3: 329.72784108046613, 4: 461.93247892542297}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 373.98782167859395, 1: 376.50267187728963, 2: 371.48984055367504, 3: 329.72784108046613, 4: 461.93247892542297}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 373.98782167859395, 1: 376.50267187728963, 2: 371.48984055367504, 3: 329.72784108046613, 4: 461.93247892542297}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 373.98782167859395, 1: 376.50267187728963, 2: 371.48984055367504, 3: 329.72784108046613, 4: 461.93247892542297}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 384.3720250338536, 1: 389.35394723159743, 2: 387.2143230420574, 3: 339.42658197879484, 4: 476.076245585787}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 384.3720250338536, 1: 389.35394723159743, 2: 387.2143230420574, 3: 339.42658197879484, 4: 476.076245585787}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 384.3720250338536, 1: 389.35394723159743, 2: 387.2143230420574, 3: 339.42658197879484, 4: 476.076245585787}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 384.3720250338536, 1: 389.35394723159743, 2: 387.2143230420574, 3: 339.42658197879484, 4: 476.076245585787}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 384.3720250338536, 1: 389.35394723159743, 2: 387.2143230420574, 3: 339.42658197879484, 4: 476.076245585787}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 393.8685734225603, 1: 401.2880578624013, 2: 397.3832732591905, 3: 348.29626211693034, 4: 490.305147570142}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 393.8685734225603, 1: 401.2880578624013, 2: 397.3832732591905, 3: 348.29626211693034, 4: 490.305147570142}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 393.8685734225603, 1: 401.2880578624013, 2: 397.3832732591905, 3: 348.29626211693034, 4: 490.305147570142}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 393.8685734225603, 1: 401.2880578624013, 2: 397.3832732591905, 3: 348.29626211693034, 4: 490.305147570142}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 393.8685734225603, 1: 401.2880578624013, 2: 397.3832732591905, 3: 348.29626211693034, 4: 490.305147570142}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 405.33206771335483, 1: 413.2935634123402, 2: 412.1589353853469, 3: 359.89528214169417, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 405.33206771335483, 1: 413.2935634123402, 2: 412.1589353853469, 3: 359.89528214169417, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 405.33206771335483, 1: 413.2935634123402, 2: 412.1589353853469, 3: 359.89528214169417, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 405.33206771335483, 1: 413.2935634123402, 2: 412.1589353853469, 3: 359.89528214169417, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 405.33206771335483, 1: 413.2935634123402, 2: 412.1589353853469, 3: 359.89528214169417, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 418.78505331435275, 1: 423.35764713656846, 2: 427.0217759906897, 3: 369.7677448008839, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 418.78505331435275, 1: 423.35764713656846, 2: 427.0217759906897, 3: 369.7677448008839, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 418.78505331435275, 1: 423.35764713656846, 2: 427.0217759906897, 3: 369.7677448008839, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 418.78505331435275, 1: 423.35764713656846, 2: 427.0217759906897, 3: 369.7677448008839, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 418.78505331435275, 1: 423.35764713656846, 2: 427.0217759906897, 3: 369.7677448008839, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 432.3169478437549, 1: 433.4812266267427, 2: 443.12179654325956, 3: 380.6008756148586, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 432.3169478437549, 1: 433.4812266267427, 2: 443.12179654325956, 3: 380.6008756148586, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 432.3169478437549, 1: 433.4812266267427, 2: 443.12179654325956, 3: 380.6008756148586, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 432.3169478437549, 1: 433.4812266267427, 2: 443.12179654325956, 3: 380.6008756148586, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 432.3169478437549, 1: 433.4812266267427, 2: 443.12179654325956, 3: 380.6008756148586, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 443.01115056060286, 1: 442.64599435725074, 2: 454.68887159227154, 3: 392.4052031751855, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 443.01115056060286, 1: 442.64599435725074, 2: 454.68887159227154, 3: 392.4052031751855, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 443.01115056060286, 1: 442.64599435725074, 2: 454.68887159227154, 3: 392.4052031751855, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 443.01115056060286, 1: 442.64599435725074, 2: 454.68887159227154, 3: 392.4052031751855, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 443.01115056060286, 1: 442.64599435725074, 2: 454.68887159227154, 3: 392.4052031751855, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 456.70086294681363, 1: 452.88856537931673, 2: 467.4864205516501, 3: 403.3646770879682, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 456.70086294681363, 1: 452.88856537931673, 2: 467.4864205516501, 3: 403.3646770879682, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 456.70086294681363, 1: 452.88856537931673, 2: 467.4864205516501, 3: 403.3646770879682, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 456.70086294681363, 1: 452.88856537931673, 2: 467.4864205516501, 3: 403.3646770879682, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 456.70086294681363, 1: 452.88856537931673, 2: 467.4864205516501, 3: 403.3646770879682, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 469.48601131038475, 1: 466.28125220373215, 2: 480.35773591649405, 3: 412.5502149731238, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 469.48601131038475, 1: 466.28125220373215, 2: 480.35773591649405, 3: 412.5502149731238, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 469.48601131038475, 1: 466.28125220373215, 2: 480.35773591649405, 3: 412.5502149731238, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 469.48601131038475, 1: 466.28125220373215, 2: 480.35773591649405, 3: 412.5502149731238, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 469.48601131038475, 1: 466.28125220373215, 2: 480.35773591649405, 3: 412.5502149731238, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 484.32265085647686, 1: 478.71512726848147, 2: 492.1259920713207, 3: 423.6360319847145, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 484.32265085647686, 1: 478.71512726848147, 2: 492.1259920713207, 3: 423.6360319847145, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 484.32265085647686, 1: 478.71512726848147, 2: 492.1259920713207, 3: 423.6360319847145, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 484.32265085647686, 1: 478.71512726848147, 2: 492.1259920713207, 3: 423.6360319847145, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 484.32265085647686, 1: 478.71512726848147, 2: 492.1259920713207, 3: 423.6360319847145, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 494.2701074074937, 1: 491.22039725236584, 2: 500.0, 3: 435.7141029257922, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 494.2701074074937, 1: 491.22039725236584, 2: 500.0, 3: 435.7141029257922, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 494.2701074074937, 1: 491.22039725236584, 2: 500.0, 3: 435.7141029257922, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 494.2701074074937, 1: 491.22039725236584, 2: 500.0, 3: 435.7141029257922, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 494.2701074074937, 1: 491.22039725236584, 2: 500.0, 3: 435.7141029257922, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 446.92626303619096, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 446.92626303619096, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 446.92626303619096, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 446.92626303619096, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 446.92626303619096, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 456.3223727526933, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 456.3223727526933, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 456.3223727526933, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 456.3223727526933, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 456.3223727526933, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 466.71600069446623, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 466.71600069446623, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 466.71600069446623, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 466.71600069446623, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 466.71600069446623, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 477.1675358898595, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 477.1675358898595, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 477.1675358898595, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 477.1675358898595, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 477.1675358898595, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 486.7215744798719, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 486.7215744798719, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 486.7215744798719, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 486.7215744798719, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 486.7215744798719, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 499.2102604920757, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 499.2102604920757, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 499.2102604920757, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 499.2102604920757, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+{0: 500.0, 1: 500.0, 2: 500.0, 3: 499.2102604920757, 4: 500.0}
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+Write to FN  None
+initializating
+Start of pre-race betting period, lasting 0
+End of pre-race betting period
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+decision >>>  1
+decision >>>  1
+decision >>>  1
+decision >>>  1
+decision >>>  1
+decision >>>  1
+18
+decision >>>  1
+decision >>>  1
+decision >>>  1
+decision >>>  1
+19
+20
+21
+22
+23
+24
+25
+decision >>>  1
+decision >>>  1
+decision >>>  1
+decision >>>  1
+decision >>>  1
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+Simulation complete
+Writing data....
+Winner :  4
+Agent 0's final balance: 100000015 : Agent_Opinionated_Random
+Agent 1's final balance: 100000030 : Agent_Opinionated_Random
+Agent 2's final balance: 99999925 : Agent_Opinionated_Random
+Agent 3's final balance: 99999865 : Agent_Opinionated_Random
+Agent 4's final balance: 99999670 : Agent_Opinionated_Random
+Agent 5's final balance: 99999730 : Agent_Opinionated_Random
+Agent 6's final balance: 100000165 : Agent_Opinionated_Random
+Agent 7's final balance: 100000060 : Agent_Opinionated_Random
+Agent 8's final balance: 100000030 : Agent_Opinionated_Random
+Agent 9's final balance: 100000420 : Agent_Opinionated_Random
+Agent 10's final balance: 100000021.59624353 : Agent_Opinionated_Leader_Wins
+Agent 11's final balance: 99999995.73084836 : Agent_Opinionated_Leader_Wins
+Agent 12's final balance: 100000042.23080361 : Agent_Opinionated_Leader_Wins
+Agent 13's final balance: 99999950.7308204 : Agent_Opinionated_Leader_Wins
+Agent 14's final balance: 99999993.09624353 : Agent_Opinionated_Leader_Wins
+Agent 15's final balance: 100000007.73084608 : Agent_Opinionated_Leader_Wins
+Agent 16's final balance: 100000053.09624353 : Agent_Opinionated_Leader_Wins
+Agent 17's final balance: 100000019.73084836 : Agent_Opinionated_Leader_Wins
+Agent 18's final balance: 99999961.59624353 : Agent_Opinionated_Leader_Wins
+Agent 19's final balance: 100000010.09622966 : Agent_Opinionated_Leader_Wins
+Agent 20's final balance: 99999979.5 : Agent_Opinionated_Underdog
+Agent 21's final balance: 99999995.5 : Agent_Opinionated_Underdog
+Agent 22's final balance: 99999999.5 : Agent_Opinionated_Underdog
+Agent 23's final balance: 99999999.5 : Agent_Opinionated_Underdog
+Agent 24's final balance: 99999996.5 : Agent_Opinionated_Underdog
+Agent 25's final balance: 99999995.5 : Agent_Opinionated_Underdog
+Agent 26's final balance: 99999999.5 : Agent_Opinionated_Underdog
+Agent 27's final balance: 100000000.0 : Agent_Opinionated_Underdog
+Agent 28's final balance: 99999995.5 : Agent_Opinionated_Underdog
+Agent 29's final balance: 99999994.0 : Agent_Opinionated_Underdog
+Agent 30's final balance: 99999796.0 : Agent_Opinionated_Back_Favourite
+Agent 31's final balance: 99999781.0 : Agent_Opinionated_Back_Favourite
+Agent 32's final balance: 99999766.0 : Agent_Opinionated_Back_Favourite
+Agent 33's final balance: 99999781.0 : Agent_Opinionated_Back_Favourite
+Agent 34's final balance: 99999796.0 : Agent_Opinionated_Back_Favourite
+Agent 35's final balance: 99999796.0 : Agent_Opinionated_Back_Favourite
+Agent 36's final balance: 99999766.0 : Agent_Opinionated_Back_Favourite
+Agent 37's final balance: 99999766.0 : Agent_Opinionated_Back_Favourite
+Agent 38's final balance: 99999796.0 : Agent_Opinionated_Back_Favourite
+Agent 39's final balance: 99999751.0 : Agent_Opinionated_Back_Favourite
+Agent 40's final balance: 100000019.0 : Agent_Opinionated_Linex
+Agent 41's final balance: 100000019.0 : Agent_Opinionated_Linex
+Agent 42's final balance: 100000004.86540486 : Agent_Opinionated_Linex
+Agent 43's final balance: 100000004.0 : Agent_Opinionated_Linex
+Agent 44's final balance: 100000004.0 : Agent_Opinionated_Linex
+Agent 45's final balance: 100000004.0 : Agent_Opinionated_Linex
+Agent 46's final balance: 100000000 : Agent_Opinionated_Linex
+Agent 47's final balance: 100000004.86543098 : Agent_Opinionated_Linex
+Agent 48's final balance: 100000019.0 : Agent_Opinionated_Linex
+Agent 49's final balance: 100000019.0 : Agent_Opinionated_Linex
+Agent 50's final balance: 99999953.5 : Agent_Opinionated_Priviledged
+Agent 51's final balance: 100000124.5 : Agent_Opinionated_Priviledged
+Agent 52's final balance: 99999104.5 : Agent_Opinionated_Priviledged
+Agent 53's final balance: 99999601.0 : Agent_Opinionated_Priviledged
+Agent 54's final balance: 100000784.5 : Agent_Opinionated_Priviledged
+Agent 55's final balance: 100000595.67290951 : XGBoostBettingAgent
+Agent 56's final balance: 100000351.30753094 : XGBoostBettingAgent
+Agent 57's final balance: 100000595.17290899 : XGBoostBettingAgent
+Agent 58's final balance: 100000724.17290811 : XGBoostBettingAgent
+Agent 59's final balance: 100000352.30753602 : XGBoostBettingAgent
+Time taken:  61.87705183029175

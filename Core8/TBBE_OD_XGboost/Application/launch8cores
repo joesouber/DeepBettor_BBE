@@ -1,0 +1,16 @@
+#!/bin/bash
+
+SCRIPT=$1
+BASE_DIR=$2
+
+for i in {1..8}; do
+    CORE_DIR="$BASE_DIR/Core$i"
+    if [ -d "$CORE_DIR" ]; then
+        cd "$CORE_DIR"
+        nohup nice python3 "$SCRIPT" > "output$i.log" &
+        cd "$BASE_DIR"
+    else
+        echo "Directory $CORE_DIR does not exist."
+    fi
+done
+
