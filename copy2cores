@@ -1,0 +1,10 @@
+#!/bin/bash
+
+REPO_URL="https://github.com/joesouber/DeepBettor_BBE.git"
+MAIN_FOLDER=$2
+
+for i in {1..8}; do
+    FOLDER="$MAIN_FOLDER/Core$i"
+    git clone $REPO_URL $FOLDER
+done
+
