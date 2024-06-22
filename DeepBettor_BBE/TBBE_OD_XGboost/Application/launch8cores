@@ -1,16 +1,26 @@
 #!/bin/bash
 
-SCRIPT=$1
-BASE_DIR=$2
+# Define the script and the base directory
+SCRIPT="TBBE.py"
+BASE_DIR="/Users/joesouber/XGBoost_TBBE"
 
-for i in {1..8}; do
-    CORE_DIR="$BASE_DIR/Core$i"
-    if [ -d "$CORE_DIR" ]; then
-        cd "$CORE_DIR"
-        nohup nice python3 "$SCRIPT" > "output$i.log" &
-        cd "$BASE_DIR"
-    else
-        echo "Directory $CORE_DIR does not exist."
-    fi
-done
+# Function to run the script in the background for a given directory
+run_script() {
+    DIR=$1
+    cd $BASE_DIR/$DIR/DeepBettor_BBE/TBBE_OD_XGboost/Application
+    nohup nice python3 $SCRIPT > "output.log" 2>&1 &
+}
+
+# Run the script for each core directory
+run_script "Core1"
+run_script "Core2"
+run_script "Core3"
+run_script "Core4"
+run_script "Core5"
+run_script "Core6"
+run_script "Core7"
+run_script "Core8"
+
+# Wait for all background processes to finish
+wait
 
